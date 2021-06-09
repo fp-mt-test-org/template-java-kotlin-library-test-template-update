@@ -5,8 +5,28 @@
     "description": "Repo for testing template upgrades to the template-java-kotlin-library.",
     "destination": {
         "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/template-java-kotlin-library-test-template-update",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/template-java-kotlin-library-test-template-update",
             "name": "template-java-kotlin-library-test-template-update",
-            "owner": "fp-mt-test-org"
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/template-java-kotlin-library-test-template-update",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
         }
     },
     "java_package_name": "templatejavakotlinlibrarytesttemplateupdate",
