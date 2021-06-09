@@ -1,0 +1,15 @@
+{
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+    "artifact_id": "template-java-kotlin-library-test-template-update",
+    "component_id": "template-java-kotlin-library-test-template-update",
+    "description": "Repo for testing template upgrades to the template-java-kotlin-library.",
+    "destination": {
+        "git": {
+            "name": "template-java-kotlin-library-test-template-update",
+            "owner": "fp-mt-test-org"
+        }
+    },
+    "java_package_name": "templatejavakotlinlibrarytesttemplateupdate",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/template-java-kotlin-library-test-template-update"
+}
